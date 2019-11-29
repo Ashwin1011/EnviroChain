@@ -1,0 +1,24 @@
+{
+  "name": "Robochain",
+  "version": "1.0.0",
+  "description": "Robochain contract Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ashwin1011/Robochain.git"
+  },
+  "author": "Ashwin Singh Parihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwin1011/Robochain/issues"
+  },
+  "homepage": "https://github.com/Ashwin1011/Robochain#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "web3": "^1.0.0-beta.55",
+    "web3-eth-contract": "^1.0.0-beta.55"
+  }
+}

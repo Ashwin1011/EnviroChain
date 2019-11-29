@@ -1,0 +1,74 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2019.09.24 20:50:45 =~=~=~=~=~=~=~=~=~=~=~=
+:"TE  ]
+}]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    10,
+    "HUMIDITY:-",
+    187.8
+  ]
+}]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    10,
+    "HUMIDITY:-",
+    187.8
+  ]
+}]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    10,
+    "HUMIDITY:-",
+    187.8
+  ]
+}TEMPERATURE: nan
+HUMIDITY: nan
+{"Sensor":"TEMPERATURE AND HUMIDITY","data":["TEMPERATURE:-",null,"HUMIDITY:-",null]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    null,
+    "HUMIDITY:-",
+    null
+  ]
+}TEMPERATURE: nan
+HUMIDITY: nan
+{"Sensor":"TEMPERATURE AND HUMIDITY","data":["TEMPERATURE:-",null,"HUMIDITY:-",null]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    null,
+    "HUMIDITY:-",
+    null
+  ]
+}TEMPERATURE: 10.00
+HUMIDITY: 187.80
+{"Sensor":"TEMPERATURE AND HUMIDITY","data":["TEMPERATURE:-",10,"HUMIDITY:-",187.8]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    10,
+    "HUMIDITY:-",
+    187.8
+  ]
+}TEMPERATURE: 10.00
+HUMIDITY: 187.80
+{"Sensor":"TEMPERATURE AND HUMIDITY","data":["TEMPERATURE:-",10,"HUMIDITY:-",187.8]}
+{
+  "Sensor": "TEMPERATURE AND HUMIDITY",
+  "data": [
+    "TEMPERATURE:-",
+    10,
+    "HUMIDITY:-",
+    187.8
+  ]
+}
